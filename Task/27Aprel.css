@@ -1,0 +1,89 @@
+body {
+    background-color: powderblue;
+}
+
+.form {
+    height: 600px;
+    width: 530px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.form .fromH2{
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 190px;
+    height: 60px;
+    
+}
+ .fromH2 .fromH2Size{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    width: 180px;
+    height: 30px;
+    
+    
+}
+.form .labelName{
+    
+    width: auto;
+    height: auto;
+    margin-left: 25px;
+}
+
+.form .labelSurname{
+    margin-top: 8px;
+}
+
+.form .labelPassword{
+    margin-top: 8px;
+}
+.form .labelGender{
+    margin-top: 8px;
+}
+.form  .labelGenderForWidth{
+    margin-left: 10px;
+}
+.form .labelCheck{
+    margin-top: 8px;
+}
+.form .labelAge{
+    margin-top: 12px;
+    
+}
+#yaw{
+    width: 50px;
+}
+
+.form .labelHigh{
+    margin-top: 12px;
+    
+}
+#boy{
+    width: 50px;
+}
+
+.form .labelWeight{
+    margin-top: 12px;
+    
+}
+#ceki{
+    width: 50px;
+}
+
+.form .labelSubmit{
+    margin-top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 75px;
+}
+#sub{
+width: 63px;
+height: 30px;
+background-color: aqua;
+}
